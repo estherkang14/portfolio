@@ -7414,3 +7414,10 @@ form .row:first-child .floating-label-form-group {
 
 .btn-social {
   margin-bottom: 0.5rem; }
+
+
+.headshot {
+  max-height: 100px;
+  max-width: 100px;
+  border-radius: 50%;
+}
