@@ -7421,3 +7421,7 @@ form .row:first-child .floating-label-form-group {
   max-width: 100px;
   border-radius: 50%;
 }
+
+.headerbio {
+  max-width: 600px;
+}
