@@ -7417,7 +7417,7 @@ form .row:first-child .floating-label-form-group {
 
 
 .headshot {
-  max-height: 100px;
+  max-height: 100px; 
   max-width: 100px;
   border-radius: 50%;
 }
