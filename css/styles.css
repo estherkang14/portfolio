@@ -7425,3 +7425,8 @@ form .row:first-child .floating-label-form-group {
 .headerbio {
   max-width: 800px;
 }
+
+.portfoliolink {
+  color: black;
+  
+}
